@@ -11,3 +11,7 @@
 > 
 > - 노션링크(Activity): https://www.notion.so/Activity-5389b0724bd24c518a448cd1f0183df7
 > - 노션링크(Fragment): https://www.notion.so/Fragment-9d5c27397f4145ada86cc565e7af4a0d
+
+> **이경민**
+> 
+> - PPT: [안드로이드-스터디-Activity_Fragment.pdf](https://github.com/Android-Study-7th/.github/files/10999431/-.-Activity_Fragment.pdf)
