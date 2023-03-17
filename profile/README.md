@@ -19,3 +19,7 @@
 > **최희건**
 > 
 > - 노션링크 : https://www.notion.so/Activity-Fragment-781f57eb5bff44b2b7b8e2a3b3bcf8de
+
+> **도현욱**
+> - ppt: [Android Study 1.pdf](https://github.com/Android-Study-7th/.github/files/10999437/Android.Study.1.pdf)
+> - 노션링크(Fragment): https://fluffy-cashew-0fe.notion.site/Activity-vs-Fragment-171feb0b25a34e14b0a09821cfd96e3e
