@@ -24,3 +24,7 @@
 > 
 > - 수업자료: [Activity & Fragment.pdf](https://github.com/Android-Study-7th/.github/files/10999457/Activity.Fragment.pdf)
 
+> **도현욱**
+> 
+> - ppt: [Android Study 1.pdf](https://github.com/Android-Study-7th/.github/files/10999437/Android.Study.1.pdf)
+> - 노션링크(Fragment): https://fluffy-cashew-0fe.notion.site/Activity-vs-Fragment-171feb0b25a34e14b0a09821cfd96e3e
