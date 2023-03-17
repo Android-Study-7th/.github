@@ -15,3 +15,7 @@
 > **이경민**
 > 
 > - PPT: [안드로이드-스터디-Activity_Fragment.pdf](https://github.com/Android-Study-7th/.github/files/10999431/-.-Activity_Fragment.pdf)
+
+> **최희건**
+> 
+> - 노션링크 : https://www.notion.so/Activity-Fragment-781f57eb5bff44b2b7b8e2a3b3bcf8de
