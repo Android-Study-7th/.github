@@ -28,3 +28,8 @@
 > 
 > - 노션링크: https://www.notion.so/a34e85bf486c4196b0512d96d48ac51c?pvs=4
 > - 수업자료: [activity&fragment.pdf](https://github.com/Android-Study-7th/.github/files/10999487/activity.fragment.pdf)
+
+> **장범준**
+> 
+> - ppt: [Activity & Fragment.pdf](https://github.com/Android-Study-7th/.github/files/10999531/Activity.Fragment.pdf)
+
