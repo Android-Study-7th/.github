@@ -50,3 +50,7 @@
 > **도현욱**
 > 
 > - Notion: https://www.notion.so/Binding-e2cf06c17c774f08ad369ee3bb34726a?pvs=4
+
+> **최희건**
+> 
+> - Notion: https://www.notion.so/ViewBinding-DataBinding-6a959264d1a343a78c5fd2d38170e11b
