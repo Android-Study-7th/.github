@@ -54,3 +54,9 @@
 > **최희건**
 > 
 > - Notion: https://www.notion.so/ViewBinding-DataBinding-6a959264d1a343a78c5fd2d38170e11b
+
+> **우영기**
+> - Notion: https://www.notion.so/ViewBinding-3a314f17c0eb4927a3bccbd8e99cd931?pvs=4
+> - Notion: https://www.notion.so/DataBinding-8e1cf0f333b14f6c9cb6822198bed463?pvs=4
+> - Blog: https://yoon-dailylife.tistory.com/57
+
