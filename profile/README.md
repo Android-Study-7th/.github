@@ -60,3 +60,7 @@
 > - Notion: https://www.notion.so/DataBinding-8e1cf0f333b14f6c9cb6822198bed463?pvs=4
 > - Blog: https://yoon-dailylife.tistory.com/57
 
+**장범준**
+> 
+> - PPT자료: [binding.pptx](https://github.com/Android-Study-7th/.github/files/11069171/Binding.pdf)
+
