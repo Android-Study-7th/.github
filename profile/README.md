@@ -43,5 +43,7 @@
 > 
 > - PPT자료: [안드로이드-스터디-binding.pptx](https://github.com/Android-Study-7th/.github/files/11069079/-.-binding.pptx)
 
-
+> **조승완**
+> 
+> - 노션링크: https://www.notion.so/Presentation-dbe944f512504d368fcb19a4b80ac7c2?p=e33aa2dd94e7452b95ecceee82e2021f&pm=s
 
