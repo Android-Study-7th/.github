@@ -47,3 +47,6 @@
 > 
 > - 노션링크: https://www.notion.so/Presentation-dbe944f512504d368fcb19a4b80ac7c2?p=e33aa2dd94e7452b95ecceee82e2021f&pm=s
 
+> **도현욱**
+> 
+> - Notion: https://www.notion.so/Binding-e2cf06c17c774f08ad369ee3bb34726a?pvs=4
