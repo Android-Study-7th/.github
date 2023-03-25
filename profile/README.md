@@ -33,3 +33,9 @@
 > 
 > - ppt: [Activity & Fragment.pdf](https://github.com/Android-Study-7th/.github/files/10999531/Activity.Fragment.pdf)
 
+## 두 번째 스터디 (2023-03-25)
+### 주제 : ViewBinding, DataBinding
+> **윤석규**
+> 
+> - 자료링크: https://velog.io/@yun_seokgyu/Android-findViewById-%EA%B7%B8%EA%B1%B8-%EC%99%9C-%EC%8D%A8-viewBinding-dataBinding
+
