@@ -39,3 +39,9 @@
 > 
 > - 자료링크: https://velog.io/@yun_seokgyu/Android-findViewById-%EA%B7%B8%EA%B1%B8-%EC%99%9C-%EC%8D%A8-viewBinding-dataBinding
 
+> **이경민**
+> 
+> - PPT자료: [안드로이드-스터디-binding.pptx](https://github.com/Android-Study-7th/.github/files/11069079/-.-binding.pptx)
+
+
+
