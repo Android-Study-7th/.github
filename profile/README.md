@@ -69,3 +69,7 @@
 > **윤석규**
 > 
 > - 자료링크: https://velog.io/@yun_seokgyu/Android-ViewModel-%EA%B7%B8%EA%B2%8C-%EB%AD%90%EC%95%BC
+
+> **도현욱**
+> 
+> - Notion: > https://www.notion.so/ViewModel-51cfc57772cb44bc8256ea5051f305bc?pvs=4
