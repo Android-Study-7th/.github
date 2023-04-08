@@ -73,3 +73,8 @@
 > **도현욱**
 > 
 > - Notion: > https://www.notion.so/ViewModel-51cfc57772cb44bc8256ea5051f305bc?pvs=4
+
+> **우영기**
+> 
+> - AAC viewmodel: https://www.notion.so/AAC-Viewmodel-50a210ca603844fda7f86767f8cd38e8?pvs=4
+> - mvvm viewmodel: https://www.notion.so/MVVM-model-view-viewmodel-5ec7141ae3be440587c69f8341aa9069?pvs=4
