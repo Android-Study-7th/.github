@@ -79,3 +79,8 @@
 > 
 > - AAC ViewModel : > https://www.notion.so/AAC-ViewModel-92249fbbfc9b4609999179628e6a6af6
 > - MVVM ViewModel : > https://www.notion.so/MVVM-ViewModel-e793cb8191e447788048d7e3a541b02e
+
+
+ **장범준**
+ 
+  - PPT자료:[ViewModel.pdf](https://github.com/Android-Study-7th/.github/files/11183228/ViewModel.pdf)
