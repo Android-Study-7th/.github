@@ -86,7 +86,6 @@
 > - AAC ViewModel : > https://velog.io/@hamtory/android-ViewModelAAC
 > - MVVM ViewModel : > nullpointerexception
 
-
 > **장범준**
 > 
 > - PPT자료:[ViewModel.pdf](https://github.com/Android-Study-7th/.github/files/11183228/ViewModel.pdf)
@@ -101,3 +100,8 @@
 > **도현욱**
 > 
 > - 노션: https://www.notion.so/Android-architectures-24395026da7f419a93461f992a3572d6?pvs=4
+
+> **장범준**
+> 
+> - PPT자료:[Architecture 패턴.pptx](https://github.com/Android-Study-7th/.github/files/11242330/Architecture.pptx)
+>
