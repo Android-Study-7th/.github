@@ -105,3 +105,7 @@
 > 
 > - PPT자료:[Architecture 패턴.pptx](https://github.com/Android-Study-7th/.github/files/11242330/Architecture.pptx)
 >
+> **황주완**
+> 
+> - 블로그: https://velog.io/@hamtory/Android-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4
+>
