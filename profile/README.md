@@ -92,8 +92,12 @@
 > - PPT자료:[ViewModel.pdf](https://github.com/Android-Study-7th/.github/files/11183228/ViewModel.pdf)
 >
 
-## 세 번째 스터디 (2023-04-16)
-### 주제 : 아키텍처 팬턴
+## 네 번째 스터디 (2023-04-16)
+### 주제 : 아키텍처 패턴
 > **윤석규**
 > 
 > - 자료링크: https://blog.seokgyu.xyz/@yun_seokgyu/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4
+
+> **도현욱**
+> 
+> - 노션: https://www.notion.so/Android-architectures-24395026da7f419a93461f992a3572d6?pvs=4
