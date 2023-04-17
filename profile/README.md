@@ -109,3 +109,7 @@
 > 
 > - 블로그: https://velog.io/@hamtory/Android-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4
 >
+
+> **우영기**
+> 
+> - 자료링크: https://www.notion.so/04be0067bc694724873411248811cd66?pvs=4
