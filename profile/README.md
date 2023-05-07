@@ -125,3 +125,8 @@
 > **윤석규**
 > 
 > - 자료링크: https://blog.seokgyu.xyz/@yun_seokgyu/Android-LiveData-Deep-Dive
+
+> **도현욱**
+> 
+> - 노션: https://www.notion.so/LiveData-43f87a7a8283455790a64bd5aeb75b91?pvs=4
+
