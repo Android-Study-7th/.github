@@ -119,3 +119,9 @@
 > - MVC: https://www.notion.so/Pattern-0dc7dad9abc64934a748d206bdcb9bff?p=0c466f93cff5423eaeb4ed38d8fec7b8&pm=s
 > - MVP: https://www.notion.so/Pattern-0dc7dad9abc64934a748d206bdcb9bff?p=0218a6cbb2904df4b8e21feaef10ca0b&pm=s
 > - MVVM: https://www.notion.so/Pattern-0dc7dad9abc64934a748d206bdcb9bff?p=c495185351ad4a8a9ea3d8311a76e893&pm=s
+
+## 다섯 번째 스터디 (2023-05-07)
+### 주제 : LiveData
+> **윤석규**
+> 
+> - 자료링크: https://blog.seokgyu.xyz/@yun_seokgyu/Android-LiveData-Deep-Dive
