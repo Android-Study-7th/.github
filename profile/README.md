@@ -130,3 +130,7 @@
 > 
 > - 노션: https://www.notion.so/LiveData-43f87a7a8283455790a64bd5aeb75b91?pvs=4
 
+> **황주완**
+>
+> - 벨로그: https://velog.io/@hamtory/android-LiveData
+
