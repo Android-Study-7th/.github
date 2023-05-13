@@ -138,3 +138,7 @@
 >
 > - 벨로그: https://velog.io/@nimo0321/LiveData
 
+> **조승완**
+>
+> - 노션: https://www.notion.so/Presentation-096e1b4bb6c541dc84075b16607e81c4?p=b9d11586b508464db40fd034ddfc5832&pm=s
+
