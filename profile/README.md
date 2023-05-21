@@ -142,3 +142,9 @@
 >
 > - 노션: https://www.notion.so/Presentation-096e1b4bb6c541dc84075b16607e81c4?p=b9d11586b508464db40fd034ddfc5832&pm=s
 
+## 여섯 번째 스터디 (2023-05-21)
+### 주제 : Thread, Looper, Handler
+> **윤석규**
+> 
+> - 자료링크: https://blog.seokgyu.xyz/@yun_seokgyu/Android-Thread-Deep-Dive
+
