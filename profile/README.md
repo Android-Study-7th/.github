@@ -148,3 +148,7 @@
 > 
 > - 자료링크: https://blog.seokgyu.xyz/@yun_seokgyu/Android-Thread-Deep-Dive
 
+> **장범준**
+> 
+> - 자료링크: https://velog.io/@nimo0321/ThreadHandlerLooper
+
